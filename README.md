@@ -91,16 +91,7 @@ Diagram kelas lengkap tersedia pada `laporan_akhir.pdf` di repository ini, menca
    - Login Admin menggunakan akun pustakawan.
    - Login Member menggunakan NIM/NIP sebagai username dan password.
 
-## 👥 Anggota Kelompok & Kontribusi
 
-| Nama | NIM | Kontribusi |
-|------|-----|------------|
-| Ahmad Aqiela | 103012400077 | UI/UX (JSP), Session Management, fitur Auth |
-| Akmal Luigi Pradana | 103012400155 | Fitur yang berhubungan dengan anggota |
-| Farel Gian Pratama | 103012400195 | Peminjaman, Pengembalian, dan Perhitungan Denda |
-| Farabi Arafat Muttaqien | 103012430003 | Fitur pencarian |
-| Baliana Daniswara | 103012400363 | Manajemen Anggota, Riwayat Anggota, dan Petugas |
-| Naufal Yuava Rasyadan | 103012400210 | Peminjaman, ManagerPeminjaman, dan ValidasiPeminjaman |
 
 ## 📄 Dokumentasi
 
